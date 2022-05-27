@@ -1,0 +1,13 @@
+segment_sources:
+  IAAFF7AB8:
+    type: origin_type
+    relation: translation
+    language: bo
+  I9B839C37:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  341ed3ff30ed4917910e758f8112eda5:
+    IAAFF7AB8: 4c46b4de34314a709ee410b3997b8c63
+    I9B839C37: c8ed3a4845b54484b334b3209129f792
